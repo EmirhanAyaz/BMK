@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BMK.iml" filepath="$PROJECT_DIR$/.idea/BMK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/gitt.iml" filepath="$PROJECT_DIR$/src/gitt.iml" />
     </modules>
   </component>
 </project>
