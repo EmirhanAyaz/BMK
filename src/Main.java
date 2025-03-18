@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Please enter your name :");
         name = veriAl.next();
         System.out.println("Pleased to meet you "+name);
+        System.out.println("See you later "+name);
 
 
 
