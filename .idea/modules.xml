@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/BMK.iml" filepath="$PROJECT_DIR$/.idea/BMK.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/gitt.iml" filepath="$PROJECT_DIR$/gitt.iml" />
+>>>>>>> 88270ec (İlk commit)
     </modules>
   </component>
 </project>
