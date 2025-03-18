@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
- HEAD
- HEAD
-
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
- 88270ec (İlk commit)
-
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
- b57839e206fd4e933a6f02b2bfb66b16ebf96a21
+    <mapping directory="$PROJECT_DIR$/gitt" vcs="Git" />
   </component>
 </project>
