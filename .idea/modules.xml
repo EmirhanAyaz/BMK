@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+ HEAD
       <module fileurl="file://$PROJECT_DIR$/src/gitt.iml" filepath="$PROJECT_DIR$/src/gitt.iml" />
+
+
+ 88270ec (İlk commit)
+ b57839e206fd4e933a6f02b2bfb66b16ebf96a21
     </modules>
   </component>
 </project>
