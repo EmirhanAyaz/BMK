@@ -20,6 +20,7 @@ public class Main {
 
 System.out.println("SA");
 System.out.println("Galiba oldu gibi");
+System.out.println("Olmuş gibi");
 
         }
     }
